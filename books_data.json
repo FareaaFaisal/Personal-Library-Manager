@@ -1,0 +1,114 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": "1960",
+        "genre": "Classic",
+        "read": true
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": "1813",
+        "genre": "Classic",
+        "read": true
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": "1951",
+        "genre": "Novel",
+        "read": true
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "year": "2003",
+        "genre": "Mystery",
+        "read": true
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": "1937",
+        "genre": "Fantasy",
+        "read": true
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "year": "2008",
+        "genre": "Science Fiction",
+        "read": true
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "year": "2003",
+        "genre": "Historical Fiction",
+        "read": true
+    },
+    {
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold",
+        "year": "2002",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "The Notebook",
+        "author": "Nicholas Sparks",
+        "year": "1996",
+        "genre": "Romance",
+        "read": true
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": "1890",
+        "genre": "Classic",
+        "read": true
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "year": "2006",
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "The Secret Life of Bees",
+        "author": "Sue Monk Kidd",
+        "year": "2002",
+        "genre": "Fiction",
+        "read": false
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "year": "1977",
+        "genre": "Horror",
+        "read": true
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Novel",
+        "read": false
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "year": "1998",
+        "genre": "Fantasy",
+        "read": false
+    },
+    {
+        "title": "Catch the Stars",
+        "author": "Ryerim",
+        "year": "2018",
+        "genre": "Angst",
+        "read": true
+    }
+]
